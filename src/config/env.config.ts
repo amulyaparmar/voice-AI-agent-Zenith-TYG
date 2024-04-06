@@ -1,6 +1,6 @@
 export const envConfig = {
   vapi: {
-    apiUrl: import.meta.env.VITE_VAPI_API_URL ?? "https://api.vapi.ai",
-    token: import.meta.env.VITE_VAPI_WEB_TOKEN ?? "vapi-web-token",
+    apiUrl: "https://api.vapi.ai",
+    token: "b8125470-e12b-443d-9300-c7e0fd79eeab",
   },
 };
