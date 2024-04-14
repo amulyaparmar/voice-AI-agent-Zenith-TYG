@@ -27,7 +27,7 @@ function App() {
 
   return (
     <main className="flex h-screen">
-      <CharacterPreview />
+      {/* <CharacterPreview /> */}
       <div
         id="card"
         className="text-slate-950 dark:text-slate-50 w-full relative"
